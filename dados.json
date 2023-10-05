@@ -1,0 +1,16 @@
+{
+  "produto": [
+    {
+      "id": 1,
+      "titulo": "Teclado sem fio",
+      "quantidade": 2,
+      "preco": 120
+    },
+    {
+      "titulo": "Grampeador",
+      "quantidade": "15",
+      "preco": "19.90",
+      "id": 3
+    }
+  ]
+}
